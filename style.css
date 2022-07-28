@@ -6,4 +6,8 @@ h1, h2{
 }
 .trafficLight{
     height: 400px;
+    cursor: pointer;
+}
+.bulb{
+    cursor: pointer;
 }
